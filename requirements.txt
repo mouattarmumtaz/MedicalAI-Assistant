@@ -1,0 +1,31 @@
+# Core DL
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+Pillow
+
+
+# NLP / LLMs
+transformers
+sentencepiece
+accelerate
+
+
+# RAG / Vector DB
+faiss-cpu
+langchain
+langchain-community
+
+
+# App
+gradio
+
+
+# PDF/Text utils (optional)
+unstructured
+pypdf
